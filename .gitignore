@@ -1,0 +1,10 @@
+.cproject
+.project
+.settings/
+.DS_Store
+*.o
+*.ioc
+*.d
+*.lst
+*.map
+*.elf

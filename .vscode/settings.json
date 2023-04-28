@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "u8g2.h": "c",
+        "st7567.h": "c"
+    }
+}
